@@ -1,9 +1,6 @@
 # Criando-Um-Organizador-de-Declara-o-de-Imposto-de-Renda-DIO
 Planilha Excel completa para auxiliar no preparo da declaração do IRPF com validações, menus e organização prática.
 
-
-# 📊 Ferramenta de Apoio à Declaração do Imposto de Renda – Excel
-
 ## 🧠 Desafio
 
 Este projeto foi desenvolvido como parte de um desafio prático com o objetivo de aplicar conhecimentos em **Excel** para criar uma solução funcional e organizada, capaz de **centralizar informações essenciais à declaração do IRPF**.
